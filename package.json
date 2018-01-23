@@ -1,27 +1,13 @@
 {
-  "name": "angular-ckeditor",
-  "version": "1.0.3",
+  "name": "@GannettDigital/angular-ckeditor",
+  "version": "1.0.0",
   "description": "CKEditor directive for Angular.",
   "main": "angular-ckeditor.js",
   "scripts": {
     "install": "bower install",
     "test": "./node_modules/karma/bin/karma start --single-run"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/lemonde/angular-ckeditor.git"
-  },
-  "keywords": [
-    "angular",
-    "directive",
-    "ckeditor"
-  ],
-  "author": "Team Le8 <projet-cms-tech@lemonde.fr>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lemonde/angular-ckeditor/issues"
-  },
-  "homepage": "https://github.com/lemonde/angular-ckeditor",
+  "license": "UNLICENSED",
   "devDependencies": {
     "bower": "~1.7.2",
     "chai": "~3.4.1",
