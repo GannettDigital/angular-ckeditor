@@ -5,7 +5,6 @@
   "main": "angular-ckeditor.js",
   "files": ["angular-ckeditor*"],
   "scripts": {
-    "install": "bower install",
     "test": "./node_modules/karma/bin/karma start --single-run"
   },
   "license": "UNLICENSED",
