@@ -1,5 +1,5 @@
 {
-  "name": "@gannett/angular-ckeditor",
+  "name": "@gannettdigital/angular-ckeditor",
   "version": "1.0.0",
   "description": "CKEditor directive for Angular.",
   "main": "angular-ckeditor.js",
